@@ -1,0 +1,2 @@
+# Reconocimiento-de-voz-Speech-recognition
+En este proyecto trabajaremos con el sensor de reconocimiento de voz, la actividad es simple, haremos uso de dos botones uno con el texto "Español" y el segundo con el texto "Inglés", estos botones se encargarán que lo ingresado en un texto hecho a partir de un EditText lo reproduzca el celular, lo característico de esto es que si escribes un texto en español y lo quieres reproducir en Inglés lo hará pero con ese acento, al igual que será con el español.
