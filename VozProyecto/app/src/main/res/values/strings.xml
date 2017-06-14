@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="action_settings">Settings</string>
+    <string name="appLabel">Text To Speech</string>
+    <string name="strBtnEnglish">English</string>
+    <string name="strBtnSpanish">Spanish</string>
+    <string name="hintEditTextWords">here...</string>
+</resources>
